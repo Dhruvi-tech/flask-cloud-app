@@ -1,0 +1,6 @@
+*.docx
+screenshots/
+screenshots_realistic/
+__pycache__/
+*.png
+*.ps1
